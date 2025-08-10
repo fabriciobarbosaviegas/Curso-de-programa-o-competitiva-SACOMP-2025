@@ -1,5 +1,8 @@
-# Curso-de-programa-o-competitiva-SACOMP-2025
+# Curso de programação competitiva SACOMP 2025
 Aqui encontra-se o gabarito dos problemas apresentados durante o curso na Semana Acadêmica dos cursos de computação da UFPEL 2025 (Sacomp XXV).
+
+## Slides
+[Clique aqui para ver o PDF](https://github.com/fabriciobarbosaviegas/Curso-de-programa-o-competitiva-SACOMP-2025/blob/main/slides.pdf)
 
 ## 📁 Estrutura do Repositório
 
@@ -56,20 +59,20 @@ Simule a trajetória de uma flecha para estourar balões.
 
 ## 🧠 Lógica das Soluções
 
-### 1. Notas e Moedas (1021)
+### Notas e Moedas (1021)
+Decompor o valor informado em **centavos** e calcular, em ordem decrescente, quantas notas e moedas de cada tipo são necessárias.
+
+### Cortando Canos (1798)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.
 
-### 2. Cortando Canos (1798)
+### Guerra (2095)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.
 
-### 3. Guerra (2095)
+### Cachorros-Quentes (2234)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.
 
-### 4. Cachorros-Quentes (2234)
+### Números Apaixonados (2290)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.
 
-### 5. Números Apaixonados (2290)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.
-
-### 6. Estourando Balões (3428)
+### Estourando Balões (3428)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.
