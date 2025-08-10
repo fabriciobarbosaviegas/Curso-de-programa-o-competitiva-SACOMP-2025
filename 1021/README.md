@@ -1,0 +1,1 @@
+Este repositório reúne soluções para os problemas realizados no Mini Warmup da UFPEL de 2025.
