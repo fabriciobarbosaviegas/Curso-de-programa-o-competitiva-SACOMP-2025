@@ -66,7 +66,7 @@ Decompor o valor informado em **centavos** e calcular, em ordem decrescente, qua
 Unbounded Knapsack* (Mochila Ilimitada), pois podemos usar cada corte quantas vezes quisermos.
 
 ### Guerra (2095)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.
+Algoritmo guloso.
 
 ### Cachorros-Quentes (2234)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.
