@@ -63,7 +63,7 @@ Simule a trajetória de uma flecha para estourar balões.
 Decompor o valor informado em **centavos** e calcular, em ordem decrescente, quantas notas e moedas de cada tipo são necessárias.
 
 ### Cortando Canos (1798)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.
+Unbounded Knapsack* (Mochila Ilimitada), pois podemos usar cada corte quantas vezes quisermos.
 
 ### Guerra (2095)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.
