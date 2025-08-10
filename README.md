@@ -69,10 +69,10 @@ Unbounded Knapsack* (Mochila Ilimitada), pois podemos usar cada corte quantas ve
 Algoritmo guloso.
 
 ### Cachorros-Quentes (2234)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.
+Divisão simples.
 
 ### Números Apaixonados (2290)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.
+Contagem ou XOR.
 
 ### Estourando Balões (3428)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.
