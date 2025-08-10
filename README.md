@@ -75,4 +75,4 @@ Divisão simples.
 Contagem ou XOR.
 
 ### Estourando Balões (3428)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.
+Reaproveitar as flechas para maximizar a eficiência.
